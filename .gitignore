@@ -1,0 +1,27 @@
+# Compiled object files
+*.o
+
+# Shared libraries
+*.so
+*.so.*
+*.a
+*.dylib
+
+# Executables
+sla_test
+slaTest
+
+# Backup files
+*.bak
+*~
+*.swp
+*.swo
+.#*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build directories
+build/
+dist/
